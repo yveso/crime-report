@@ -6,5 +6,5 @@ Grundlage sind die auf [Presseportal](https://www.presseportal.de/) veröffentli
 
 Bislang gibt es folgende Notebooks:
 
-* [Daten, wir brauchen Daten](code/01 Daten wir brauchen Daten.ipynb), wie können die Meldungen ausgelesen werden?
-* [Was will uns der Autor sagen?](code/02 Was will uns der Autor sagen.ipynb), wie kann ein einzelner Artikel strukturiert ausgelesen werden?
+* [Daten, wir brauchen Daten](/code/01_daten_wir_brauchen_daten.ipynb), wie können die Meldungen ausgelesen werden?
+* [Was will uns der Autor sagen?](/code/02_was_will_uns_der_autor_sagen.ipynb), wie kann ein einzelner Artikel strukturiert ausgelesen werden?
